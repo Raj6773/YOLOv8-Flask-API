@@ -1,0 +1,15 @@
+# Ignore Python environment
+yolov8_env/
+*.pyd
+*.dll
+*.lib
+
+# Ignore cache files
+_pycache_/
+*.pyc
+*.pyo
+
+# Ignore unnecessary folders
+runs/
+.ipynb_checkpoints/
+.DS_Store

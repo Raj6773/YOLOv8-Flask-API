@@ -1,0 +1,17 @@
+train: C:/Users/rajki/Downloads/BDPapayaLeaf/Images/train
+val: C:/Users/rajki/Downloads/BDPapayaLeaf/Images/val
+nc: 12  # Total number of classes
+
+names:
+  0: Anthracnose_Leaf
+  1: BacterialSpot_Leaf
+  2: Curl_Leaf
+  3: RingSpot_Leaf
+  4: Healthy_Leaf
+  5: PartiallyMature  # ✅ Updated class 5
+  6: Anthracnose_Fruit
+  7: BlackSpot_Fruit
+  8: RingSpot_Fruit
+  9: Phytophthora_Fruit
+  10: PowderyMildew_Fruit
+  11: Unmature  # ✅ Ensuring Unmature is still class 11

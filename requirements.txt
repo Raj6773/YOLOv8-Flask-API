@@ -1,0 +1,6 @@
+flask
+ultralytics
+opencv-python
+numpy
+flask-cors
+gunicorn
